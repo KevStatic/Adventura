@@ -32,3 +32,39 @@ Sure, I can help you with that. Here are the steps on how to create a travel web
 7. # Add JavaScript functionality to your website
  This can include things like adding interactive maps, slideshows, and contact forms.
  *****{WITH BRIEF IDEA OF WHAT WE NEED THE USER TO INPUT}****
+
+## Page Layout 
+# Main Page
+ 1. Home
+ 2. Company
+ 3. Tagline
+ 4. Logo
+ 5. Taskbar
+ 6. A quote
+ 7. Current Discounted Tours! (Redirected to Explor page onclick)
+ 8. Copyright footer
+
+# Explore Page
+ 1. Activities
+ 2. Choices- Leisure/Thrill
+ 3. Leisure sidescroll info {4 activities}
+ 4. Thrill sidescroll info {3 activities}
+ 5. 4 activities of Leisure and 3 activities of Thrill also have onclick function for places for visit
+ 6. Add a onclick button with Book Now tag which directs to the Book Now page
+
+# Book now
+ 1. Details
+ 2. Alert Box
+
+# About Page
+ 1. Mission
+ 2. Vision
+ 3. Owners quote
+
+# Contact Us
+ 1. Numbers
+ 2. Email address
+ 3. Maps
+ 4. Follow us FB/TWITTER...ETC.
+ 5. Get in touch
+ 6. {Live chat option}
