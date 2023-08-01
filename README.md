@@ -6,8 +6,9 @@ A website the broadcasts popular tourist destinations and places that vistors vi
 
 # Trial
 
-Hello guys!
-this is a trial message.
+Lamya (Team Leader) - AboutUs page
+Suchi - Explore pages
+Keval - Home page
 
 # TO DO's:
 
