@@ -47,7 +47,7 @@ img{
 }
 .first-image{
     position: absolute;
-    top: 218%;
+    top: 248%;
     left: 8%;
     font-size: 25px;
     font-family: "Montserrat";
@@ -56,8 +56,8 @@ img{
 }
 .second-image{
     position: absolute;
-    top: 218%;
-    left: 57%;
+    top: 248%;
+    left: 56%;
     font-size: 25px;
     font-family: "Montserrat";
     src: url("path-to-font-files/Montserrat.ttf") format("truetype");

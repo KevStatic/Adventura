@@ -215,7 +215,7 @@ body{
     box-shadow: -230px 0 150px 50vw rgba(0, 0, 0, 0.7);
   }
   .timeline .swiper-slide-content {
-    left: 50%;
+    left: 45%;
     top: 50%;
     transform: translateY(-50%);
     width: 310px;

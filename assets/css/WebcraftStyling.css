@@ -43,12 +43,20 @@ header
   justify-content: space-between;
   align-items: center;
 }
-header .logo
+header .logo-1
 {
   color: #fff;
   text-transform: uppercase;
   cursor: pointer;
+  font-size: 2rem;
+  transition: background-position 275ms ease;
 }
+
+header > .logo-1:hover{
+  transform: scale();
+  background-position: 0 100%;
+}
+
 .container
 {
     width: 100%;
@@ -111,7 +119,7 @@ header .logo
     -o-transform: translateY(8px);
     transform: translateY(8px);
 }
-.logo
+.logo-1
 {
     height: 100%;
     padding-left: 72px;
@@ -228,6 +236,7 @@ header .logo
 {
   position: relative;
   z-index: 15;
+  align-items: center;
 }
 
 .text h2
@@ -268,13 +277,14 @@ header .logo
   font-size: 1em;
   background: #fff;
   padding: 10px 30px;
+  border-radius: 10px;
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 500;
   margin-top: 10px;
   color: #111;
   letter-spacing: 2px;
-  transition: 0.2s;
+  transition: 0.3s;
 }
 .text a:hover
 {
